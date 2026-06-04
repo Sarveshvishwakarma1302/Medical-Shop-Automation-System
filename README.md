@@ -1,132 +1,163 @@
-**Medical Shop Automation System**
-**Overview**
+# Medical Shop Automation System
+
+## Overview
+
 Medical Shop Automation System is a web-based pharmacy management application developed using Java Enterprise technologies. The system automates medicine inventory management, billing operations, stock monitoring, user management, and sales analytics for medical stores.
+
 The application is designed to reduce manual work, improve inventory accuracy, streamline billing processes, and provide real-time business insights through dashboards and reports.
 
-**Features**
+---
 
-User Management
-Admin Login
-Pharmacist Login
-Add New Users
-Update User Information
-View User Details
-Role-Based Access Control
+## Features
 
-**Medicine Management**
+### User Management
 
-Add New Medicines
-Update Medicine Details
-View Medicine Inventory
-Medicine Categorization
-Store-wise Medicine Management
+- Admin Login
+- Pharmacist Login
+- Add New Users
+- Update User Information
+- View User Details
+- Role-Based Access Control
 
-**Inventory & Stock Monitoring**
+### Medicine Management
 
-Available Stock Tracking
-Low Stock Detection
-Out-of-Stock Monitoring
-Expired Medicine Tracking
-Batch-wise Stock Management
-Real-Time Dashboard Statistics
+- Add New Medicines
+- Update Medicine Details
+- View Medicine Inventory
+- Medicine Categorization
+- Store-wise Medicine Management
 
-**Billing Management**
+### Inventory & Stock Monitoring
 
-Generate Customer Bills
-Automatic Price Calculation
-Discount Management
-Final Amount Calculation
-Patient & Doctor Information Storage
-Transaction History Maintenance
+- Available Stock Tracking
+- Low Stock Detection
+- Out-of-Stock Monitoring
+- Expired Medicine Tracking
+- Batch-wise Stock Management
+- Real-Time Dashboard Statistics
 
-**Sales Analytics**
+### Billing Management
 
-Daily Income Tracking
-Monthly Income Tracking
-Interactive Bar Charts
-Sales Trend Analysis
-Revenue Monitoring Dashboard
+- Generate Customer Bills
+- Automatic Price Calculation
+- Discount Management
+- Final Amount Calculation
+- Patient & Doctor Information Storage
+- Transaction History Maintenance
 
-**Dashboard**
+### Sales Analytics
 
-Available Stock Count
-Low Stock Count
-Out-of-Stock Count
-Expired Stock Count
-Daily Revenue Display
-Monthly Revenue Display
-Quick Navigation Cards
+- Daily Income Tracking
+- Monthly Income Tracking
+- Interactive Bar Charts
+- Sales Trend Analysis
+- Revenue Monitoring Dashboard
 
-**Technology Stack**
+### Dashboard
 
-**Backend**
-Java
-JSP (Java Server Pages)
-Servlets
-JDBC
-**Frontend**
-HTML5
-CSS3
-JavaScript
-Bootstrap
-Chart.js
-**Database**
-MySQL
-**Server**
-GlassFish Server
-**Development Tools**
-Vs Code
-MySQL Workbench
-Git
-GitHub
+- Available Stock Count
+- Low Stock Count
+- Out-of-Stock Count
+- Expired Stock Count
+- Daily Revenue Display
+- Monthly Revenue Display
+- Quick Navigation Cards
 
-**The dashboard provides:**
+---
 
-**Stock Analysis**
-Available Medicines
-Low Stock Medicines
-Out of Stock Medicines
-Expired Medicines
-**Revenue Analysis**
-Daily Income
-Monthly Income
-Sales Charts
-Revenue Reports
-**Security Features**
-Session-Based Authentication
-Role-Based Authorization
-Secure Database Connectivity
-Controlled User Access
-Input Validation
+## Technology Stack
 
-**Key Benefits**
+### Backend
 
-Reduces Manual Work
-Improves Inventory Accuracy
-Faster Billing Process
-Better Stock Monitoring
-Revenue Tracking
-Business Analytics
-User-Friendly Interface
-PDF Bill Download
-Purchase Order Management
-Export Reports to Excel/PDF
-Supplier Management
+- Java
+- JSP (Java Server Pages)
+- Servlets
+- JDBC
 
-**Future Enhancements**
+### Frontend
 
-GST Invoice Generation
-Email Notifications
-SMS Alerts
-Barcode Scanner Integration
-QR Code Support
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Chart.js
 
-**Implemented Modules:**
+### Database
 
-Authentication System
-User Management
-Medicine Management
-Inventory Management
-Billing System
-Dashboard Analytics
-Sales Reporting
+- MySQL
+
+### Server
+
+- GlassFish Server
+
+### Development Tools
+
+- VS Code
+- MySQL Workbench
+- Git
+- GitHub
+
+---
+
+## Dashboard Analysis
+
+### Stock Analysis
+
+- Available Medicines
+- Low Stock Medicines
+- Out of Stock Medicines
+- Expired Medicines
+
+### Revenue Analysis
+
+- Daily Income
+- Monthly Income
+- Sales Charts
+- Revenue Reports
+
+---
+
+## Security Features
+
+- Session-Based Authentication
+- Role-Based Authorization
+- Secure Database Connectivity
+- Controlled User Access
+- Input Validation
+
+---
+
+## Key Benefits
+
+- Reduces Manual Work
+- Improves Inventory Accuracy
+- Faster Billing Process
+- Better Stock Monitoring
+- Revenue Tracking
+- Business Analytics
+- User-Friendly Interface
+- PDF Bill Download
+- Purchase Order Management
+- Export Reports to Excel/PDF
+- Supplier Management
+  
+---
+
+## Future Enhancements
+
+- GST Invoice Generation
+- Email Notifications
+- SMS Alerts
+- Barcode Scanner Integration
+- QR Code Support
+---
+
+## Implemented Modules
+
+- Authentication System
+- User Management
+- Medicine Management
+- Inventory Management
+- Billing System
+- Dashboard Analytics
+- Sales Reporting
